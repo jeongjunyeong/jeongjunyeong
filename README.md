@@ -3,6 +3,8 @@
 ## I enjoy soccer, drive, surf and snowboard.
 ## i hope to develop every beautiful things
 
+<a href="https://velog.io/@jeongjunyeong/posts" target="_blank"><img src="https://img.shields.io/badge/20C997-000000?style=for-the-badge&logo=20C997&logoColor=000000"/></a>
+
 
 <!--
 **jeongjunyeong/jeongjunyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

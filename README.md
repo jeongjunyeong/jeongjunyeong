@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi friends i'm web develpoer using Java
+
+## I enjoy soccer, drive, surf and snowboard.
+## i hope to develop every beautiful things
+
 
 <!--
 **jeongjunyeong/jeongjunyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
